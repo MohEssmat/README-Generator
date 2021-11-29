@@ -8,9 +8,9 @@
 
 💻 Below is the gif showing the functionality of the application:
 
-![here](./scr/readme-generator-movie.gif)
+![here](./src/readme-generator-movie.gif)
 
-🎥 The full movie file showing functionality of the application can be found [here](./scr/readme-generator-movie.webm)
+🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)
 
 ## User Story
 
