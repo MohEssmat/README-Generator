@@ -8,13 +8,13 @@
 
 💻 Below is the gif showing the functionality of the application:
 
-![Mohamed Essmat README Generator](./scr/readme-generator-movie)
+![here](./scr/readme-generator-movie.gif)
 
 🎥 The full movie file showing functionality of the application can be found [here](./scr/readme-generator-movie.webm)
 
 ## User Story
 
-```
+````
 AS A developer
 I WANT a README generator
 SO T
@@ -22,8 +22,7 @@ SO T
 
 ## Acceptance Criteria
 
-```
-
+```md
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -39,10 +38,10 @@ WHEN I enter my email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
-
-```
+````
 
 ## Table of Contents
+
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -52,23 +51,29 @@ THEN I am taken to the corresponding section of the README
 - [Questions](#questions)
 
 ## Installation
+
 💾 npm install inquirer is required
 
 ## Usage
+
 💻 DU coding bootcamp class assignment
 
 ## License
+
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license.
 
 ## Contributing
+
 👪 Mohamed Essmat
 
 ## Tests
+
 ✏️ NO
 
 ## Questions
+
 ✋ email me OR reach out on GitHub<br />
 <br />
 having issue: Find me on GitHub: [MohEssmat](https://github.com/MohEssmat)<br />
@@ -76,5 +81,3 @@ having issue: Find me on GitHub: [MohEssmat](https://github.com/MohEssmat)<br />
 ✉️ Email me with any questions: mohamedessmat80@gmail.com<br /><br />
 
 _This README was generated with ❤️ by [README-generator](https://github.com/MohEssmat/README-Generator) 🔥🔥🔥_
-
-```
