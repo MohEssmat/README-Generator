@@ -10,7 +10,7 @@
 
 ![here](./src/readme-generator-movie.gif)
 
-🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)
+🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1x7tnZcrc1DcsOsAZ97cKKEvcXwsnveBl/view?usp=sharing)
 
 ## User Story
 
